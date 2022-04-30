@@ -1,0 +1,4 @@
+#+title:Netflix clone
+
+This is a project of the bootcamp carrefour web developer offered by [[https://web.dio.me/][DIO]]. This project was made with basic HTML, CSS and the lib OwlCarousel. 
+I remade the same project with react to access the site [[][click here], to see the repository [[https://github.com/Giovani-Pedroso/netflix-clone-react][here]]
